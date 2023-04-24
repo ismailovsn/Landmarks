@@ -35,6 +35,7 @@
 		25E5A19229F7180E00824358 /* HikeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E5A18E29F7180E00824358 /* HikeDetail.swift */; };
 		25E5A19329F7180E00824358 /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E5A18F29F7180E00824358 /* HikeView.swift */; };
 		25E5A19729F723A100824358 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E5A19629F723A100824358 /* CategoryHome.swift */; };
+		25E5A19929F733AE00824358 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E5A19829F733AD00824358 /* CategoryRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +87,7 @@
 		25E5A18E29F7180E00824358 /* HikeDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
 		25E5A18F29F7180E00824358 /* HikeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
 		25E5A19629F723A100824358 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
+		25E5A19829F733AD00824358 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -250,6 +252,7 @@
 			isa = PBXGroup;
 			children = (
 				25E5A19629F723A100824358 /* CategoryHome.swift */,
+				25E5A19829F733AD00824358 /* CategoryRow.swift */,
 			);
 			path = Categories;
 			sourceTree = "<group>";
@@ -386,6 +389,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25E5A19929F733AE00824358 /* CategoryRow.swift in Sources */,
 				25E5A13629EB822A00824358 /* ContentView.swift in Sources */,
 				25E5A19729F723A100824358 /* CategoryHome.swift in Sources */,
 				25E5A19129F7180E00824358 /* HikeGraph.swift in Sources */,
