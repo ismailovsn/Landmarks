@@ -162,6 +162,7 @@
 			children = (
 				25E5A13529EB822A00824358 /* ContentView.swift */,
 				25E5A17A29F69E7500824358 /* Landmarks */,
+				25E5A18629F6A4C200824358 /* Badges */,
 				25E5A17B29F69E8E00824358 /* Helpers */,
 			);
 			path = Views;
@@ -200,13 +201,20 @@
 				25E5A15D29F3254000824358 /* CircleImage.swift */,
 				25E5A15F29F345C000824358 /* MapView.swift */,
 				25E5A17829F69A8600824358 /* FavoriteButton.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		25E5A18629F6A4C200824358 /* Badges */ = {
+			isa = PBXGroup;
+			children = (
 				25E5A17C29F6A35C00824358 /* HexagonParameters.swift */,
 				25E5A17E29F6A3C500824358 /* BadgeBackground.swift */,
 				25E5A18029F6A44200824358 /* BadgeSymbol.swift */,
 				25E5A18229F6A47300824358 /* RotatedBadgeSymbol.swift */,
 				25E5A18429F6A48B00824358 /* Badge.swift */,
 			);
-			path = Helpers;
+			path = Badges;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
