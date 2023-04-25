@@ -8,6 +8,7 @@
 import Foundation
 import UIKit
 
-
+struct PageViewController<Page: View>: UIViewControllerRepresentable {
+    var pages: [Page]
     
 }
